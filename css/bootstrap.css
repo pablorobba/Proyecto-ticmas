@@ -1,0 +1,27 @@
+*{
+    
+}
+.colum_1 {
+    width: 300px;
+    border: 1px; 
+    padding: 2px;
+    margin: 2px;
+}
+.colum_2 {
+    width: 300px;
+    border: 15px; 
+    padding: 50px;
+    margin: 20px;
+}
+.col_1 {
+    width: 300px;
+    border: 2px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+.col_2 {
+    width: 300px;
+    border: 2px solid green;
+    padding: 50px;
+    margin: 20px;
+}

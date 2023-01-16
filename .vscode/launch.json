@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/css.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/css.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/formulario.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/formulario.html"
+        }
+    ]
+}
